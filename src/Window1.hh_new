@@ -1,0 +1,18 @@
+// generated 2007/10/9 16:01:41 CEST by guillaume@pc-ludo-max2.(none)
+// using glademm V2.6.0
+//
+// newer (non customized) versions of this file go to Window1.hh_new
+
+// you might replace
+//    class foo : public foo_glade { ... };
+// by
+//    typedef foo_glade foo;
+// if you didn't make any modifications to the widget
+
+#ifndef _WINDOW1_HH
+#  include "Window1_glade.hh"
+#  define _WINDOW1_HH
+class Window1 : public Window1_glade
+{  
+};
+#endif

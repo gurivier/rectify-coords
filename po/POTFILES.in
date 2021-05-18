@@ -1,0 +1,4 @@
+# List of source files containing translatable strings.
+./src/redressement_demo.cc
+./src/Window1_glade.cc
+./src/Window1.cc
